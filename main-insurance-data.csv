@@ -1,0 +1,7 @@
+user_id,first_name,last_name,version,insurance_company
+6dc2af45-dcdc-331b-9068-62cbe168d221,Test,User,2,Test Insurance
+6dc2af45-dcdc-331b-9068-62cbe168d221,Test,User,1,Test Insurance
+6dc2af45-dcdc-331b-9068-62cbe168d221,Test,User,1,ABC Insurance
+6dc2af45-dcdc-331b-9068-62cbe168d221,Test,User,6,ABC Insurance
+3179f4e7-2697-3605-9075-cf5faec047a7,John,Doe,4,ABC Insurance
+5f30f462-6233-3463-8748-05e2e20eeffe,Jane,Doe,2,ZZZ Insurance

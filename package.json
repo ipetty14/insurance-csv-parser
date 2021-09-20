@@ -1,0 +1,27 @@
+{
+  "name": "insurance-csv-parser",
+  "version": "1.0.0",
+  "description": "A basic CSV parser for insurance company data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipetty14/insurance-csv-parser.git"
+  },
+  "author": "Ian Petty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipetty14/insurance-csv-parser/issues"
+  },
+  "homepage": "https://github.com/ipetty14/insurance-csv-parser#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "csv-stringify": "^5.6.5",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^4.3.6",
+    "papaparse": "^5.3.1"
+  }
+}
